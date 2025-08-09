@@ -1,4 +1,4 @@
-<!-- PROFILE HEADER -->
+
 <h1 align="center">Hey 👋, I'm Adil Sidan</h1>
 <h3 align="center">🚀 Turning coffee & ideas into code</h3>
 
