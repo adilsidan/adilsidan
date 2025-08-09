@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me  
 - 📚 **Currently learning:** Java & Flutter  
-- ⚡ Building an **AI Tutoring App** *Now A Wbsite*
+- ⚡ Building an **AI Tutoring App** *(now a wbsite ^⁠_⁠^ )*
 - 🎯 Goal for 2025: Clear **B.Tech backlogs** & ship 3 cool projects  
 - 💡 Interested in **AI in Education**, **Indie Game Dev** 
 
