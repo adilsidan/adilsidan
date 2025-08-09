@@ -5,6 +5,9 @@
   <a href="https://linkedin.com/in/adil-sidan-223226200" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:adilchikku24@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
   </a>
