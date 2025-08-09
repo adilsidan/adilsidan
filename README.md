@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/adil-sidan-223226200" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://www.instagram.com/adil.sidan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:adilchikku24@gmail.com">
